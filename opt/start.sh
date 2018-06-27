@@ -128,7 +128,7 @@ INSTALL_PACKAGES="zimbra-core zimbra-ldap zimbra-logger zimbra-mta zimbra-snmp z
 EOF
 ##Install the Zimbra Collaboration ##
 echo "Downloading Zimbra Collaboration 8.8.7"
-wget -O /opt/zimbra-install/zimbra-zcs-8.7.6.tar.gz https://files.zimbra.com/downloads/zcs-8.7.6_GA_1776.UBUNTU14_64.20170326144124.tgz
+wget -O /opt/zimbra-install/zimbra-zcs-8.7.6.tar.gz https://files.zimbra.com/downloads/8.7.6_GA/zcs-8.7.6_GA_1776.UBUNTU14_64.20170326144124.tgz
 
 echo "Extracting files from the archive"
 tar xzvf /opt/zimbra-install/zimbra-zcs-8.7.6.tar.gz -C /opt/zimbra-install/
