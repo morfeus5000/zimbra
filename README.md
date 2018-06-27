@@ -1,6 +1,8 @@
 [![](https://images.microbadger.com/badges/image/jorgedlcruz/zimbra.svg)](https://microbadger.com/images/jorgedlcruz/zimbra "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/jorgedlcruz/zimbra.svg)](https://microbadger.com/images/jorgedlcruz/zimbra "Get your own version badge on microbadger.com")
 
+Basado en docker jorgedlcruz
+
 # Zimbra
 In this Repository you will find how to install Zimbra on Docker
 
